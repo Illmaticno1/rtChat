@@ -1,1 +1,4 @@
 node_modules
+
+# add .next to .gitignore
+.next
